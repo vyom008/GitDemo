@@ -26,6 +26,7 @@ public class stepDefination {
 	public void home_page_is_displayed() {
 	    // Write code here that turns the phrase above into concrete actions
 	    System.out.println("Validated home page");
+	    System.out.println("Validated home page2 - By Git Y");
 	}
 
     @And("^Cards displayed are \"([^\"]*)\"$")
