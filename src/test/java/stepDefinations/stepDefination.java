@@ -33,6 +33,9 @@ public class stepDefination {
     @And("^Cards displayed are \"([^\"]*)\"$")
     public void cards_displayed_are_something(String strArg1) throws Throwable {
         System.out.println(strArg1);
+        System.out.println("Validated home page2 - By Git Z-1");
+        System.out.println("Validated home page2 - By Git Z-2");
+        System.out.println("Validated home page2 - By Git Z-3");
     }
 
 }
