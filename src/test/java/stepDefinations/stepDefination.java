@@ -36,6 +36,10 @@ public class stepDefination {
         System.out.println("Validated home page2 - By Git Z-1");
         System.out.println("Validated home page2 - By Git Z-2");
         System.out.println("Validated home page2 - By Git Z-3");
+        
+        System.out.println("Validated home page2 - By Git Y-3");
+        System.out.println("Validated home page2 - By Git Y-4");
+        System.out.println("Validated home page2 - By Git Y-5");
     }
 
 }
